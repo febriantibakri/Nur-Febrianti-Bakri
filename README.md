@@ -5,28 +5,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febriantibakri" alt="febriantibakri" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Data Analyst, Business Analyst**
+## 🌱 I’m currently learning **Data Science, Data Analyst, Business Analyst**
 
-- 👨‍💻 My project consists of:
-  Data Scientist (Modeling Using Machine Learning):
-  https://github.com/febriantibakri/Credit-Risk-Modelling
-  https://github.com/febriantibakri/Financial-Distress-Modelling
-  Data Analyst:
--> https://github.com/febriantibakri/Analyst-Undernourishment-Data
--> https://github.com/febriantibakri/Project-use-RFM
-Course Material:
--> https://github.com/febriantibakri/Dasar-Data-Scientist/tree/main
--> https://github.com/febriantibakri/RNN-LSTM/tree/main
--> https://github.com/febriantibakri/Unsupervised-Learning-Master/tree/main
--> https://github.com/febriantibakri/Supervised-Learning-Master/tree/main
--> https://github.com/febriantibakri/Basic-DeepLearning/tree/main
--> https://github.com/febriantibakri/Neural-Network-Basic-Pytorch/tree/main
+## 👨‍💻 My project consists of:
+- Data Scientist (Modeling Using Machine Learning):
+  - https://github.com/febriantibakri/Credit-Risk-Modelling
+  - https://github.com/febriantibakri/Financial-Distress-Modelling
+- Data Analyst:
+  - https://github.com/febriantibakri/Analyst-Undernourishment-Data
+  - https://github.com/febriantibakri/Project-use-RFM
+- Course Material:
+  - https://github.com/febriantibakri/Dasar-Data-Scientist/tree/main
+  - https://github.com/febriantibakri/RNN-LSTM/tree/main
+  - https://github.com/febriantibakri/Unsupervised-Learning-Master/tree/main
+  - https://github.com/febriantibakri/Supervised-Learning-Master/tree/main
+  - https://github.com/febriantibakri/Basic-DeepLearning/tree/main
+  - https://github.com/febriantibakri/Neural-Network-Basic-Pytorch/tree/main
   
-- 📫 How to reach me **nfebriantib@gmail.com**
+## 📫 How to reach me **nfebriantib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1C6B1T2rEgwUggUbBTA75YrsoctBAbU16?usp=sharing](https://drive.google.com/drive/folders/1C6B1T2rEgwUggUbBTA75YrsoctBAbU16?usp=sharing)
+## 📄 Know about my experiences [https://drive.google.com/drive/folders/1C6B1T2rEgwUggUbBTA75YrsoctBAbU16?usp=sharing](https://drive.google.com/drive/folders/1C6B1T2rEgwUggUbBTA75YrsoctBAbU16?usp=sharing)
 
-- ⚡ Fun fact **I am a hard worker and known as a person who is responsible for the trust given to me. I am also happy with things that are new to me.**
+## ⚡ Fun fact **I am a hard worker and known as a person who is responsible for the trust given to me. I am also happy with things that are new to me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
