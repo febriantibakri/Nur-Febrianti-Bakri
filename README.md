@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning **Data Science, Data Analyst, Business Analyst**
 
 - 👨‍💻 My project consists of:
-Data Scientist (Modeling Using Machine Learning):
--> https://github.com/febriantibakri/Credit-Risk-Modelling
+- Data Scientist (Modeling Using Machine Learning): https://github.com/febriantibakri/Credit-Risk-Modelling
 -> https://github.com/febriantibakri/Financial-Distress-Modelling
 Data Analyst:
 -> https://github.com/febriantibakri/Analyst-Undernourishment-Data
