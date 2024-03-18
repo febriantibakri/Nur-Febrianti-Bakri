@@ -7,8 +7,21 @@
 
 - 🌱 I’m currently learning **Data Science, Data Analyst, Business Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/febriantibakri](https://github.com/febriantibakri)
-
+- 👨‍💻 My project consists of:
+Data Scientist (Modeling Using Machine Learning):
+-> https://github.com/febriantibakri/Credit-Risk-Modelling
+-> https://github.com/febriantibakri/Financial-Distress-Modelling
+Data Analyst:
+-> https://github.com/febriantibakri/Analyst-Undernourishment-Data
+-> https://github.com/febriantibakri/Project-use-RFM
+Course Material:
+-> https://github.com/febriantibakri/Dasar-Data-Scientist/tree/main
+-> https://github.com/febriantibakri/RNN-LSTM/tree/main
+-> https://github.com/febriantibakri/Unsupervised-Learning-Master/tree/main
+-> https://github.com/febriantibakri/Supervised-Learning-Master/tree/main
+-> https://github.com/febriantibakri/Basic-DeepLearning/tree/main
+-> https://github.com/febriantibakri/Neural-Network-Basic-Pytorch/tree/main
+  
 - 📫 How to reach me **nfebriantib@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1C6B1T2rEgwUggUbBTA75YrsoctBAbU16?usp=sharing](https://drive.google.com/drive/folders/1C6B1T2rEgwUggUbBTA75YrsoctBAbU16?usp=sharing)
