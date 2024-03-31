@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Febrianti Bakri</h1>
-<h3 align="center">I am an actuarial student at Hasanuddin University and I have good data analysis skills, I have attended various courses in processing data, besides that I have also worked on various projects that can support my skills to be better.</h3>
+<h3 align="center">I am a fresh graduated of actuary student at Hasanuddin University and I have good data analysis skills, I have attended various courses in processing data, besides that I have also worked on various projects that can support my skills to be better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febriantibakri&label=Profile%20views&color=0e75b6&style=flat" alt="febriantibakri" /> </p>
 
