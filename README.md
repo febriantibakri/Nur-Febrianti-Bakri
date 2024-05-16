@@ -21,6 +21,9 @@
   - https://github.com/febriantibakri/Supervised-Learning-Master/tree/main
   - https://github.com/febriantibakri/Basic-DeepLearning/tree/main
   - https://github.com/febriantibakri/Neural-Network-Basic-Pytorch/tree/main
+- Deeplearning (unstructured Data)
+  - https://github.com/febriantibakri/Text-Preprocessing-BoW-TFIDF-Document-Similarity 
+  - https://github.com/febriantibakri/Image-Recognition
   
 ## 📫 How to reach me **nfebriantib@gmail.com**
 
