@@ -24,6 +24,7 @@
 - Deeplearning (unstructured Data)
   - https://github.com/febriantibakri/Text-Preprocessing-BoW-TFIDF-Document-Similarity 
   - https://github.com/febriantibakri/Image-Recognition
+  - https://github.com/febriantibakri/Filtering-Text-Classification-Image
   
 ## 📫 How to reach me **nfebriantib@gmail.com**
 
